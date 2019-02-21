@@ -239,7 +239,7 @@ form{
 li{
 	padding:5px 0px;
 }
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 480px) {
   form > label, input
   {
     width: 100%;
